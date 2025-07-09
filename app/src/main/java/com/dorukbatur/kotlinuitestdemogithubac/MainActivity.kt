@@ -38,6 +38,7 @@ class MainActivity : AppCompatActivity() {
 
 
 
+
         recyclerView = findViewById(R.id.recyclerView)
         searchEditText = findViewById(R.id.searchEditText)
         refreshButton = findViewById(R.id.refreshButton)
